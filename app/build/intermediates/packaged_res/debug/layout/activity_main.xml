@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/white">
+
+
+    <TextView
+        android:id="@+id/signUptextView"
+        android:layout_width="148dp"
+        android:layout_height="81dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="30dp"
+        android:fontFamily="@font/andika_new_basic"
+        android:text="@string/signUptextView"
+        android:textColor="#010C12"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/logIntextView"
+        app:layout_constraintEnd_toStartOf="@+id/signUpbutton"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/logIntextView"
+        android:layout_width="135dp"
+        android:layout_height="85dp"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="30dp"
+        android:fontFamily="@font/andika_new_basic"
+        android:text="@string/logIntextView"
+        android:textColor="#010C12"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/logInbutton"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.414" />
+
+    <Button
+        android:id="@+id/signUpbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="@color/btn_color"
+        android:fontFamily="@font/andika_new_basic"
+        android:text="@string/signUpbutton"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/logInbutton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.586"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.517"
+        tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+    <Button
+        android:id="@+id/logInbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="140dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="140dp"
+        android:backgroundTint="@color/btn_color"
+        android:fontFamily="@font/andika_new_basic"
+        android:text="@string/logInbutton"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.601"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.627"
+        tools:ignore="TextContrastCheck,TextContrastCheck" />
+</androidx.constraintlayout.widget.ConstraintLayout>

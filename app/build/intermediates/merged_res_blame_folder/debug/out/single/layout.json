@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_enter_code.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_enter_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\card_view_design.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\card_view_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_clients.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_clients.xml"
+    },
+    {
+        "merged": "com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:/layout/activity_packages.xml",
+        "source": "com.example.flexfitnessgymmanagement.app-main-8:/layout/activity_packages.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_home_page.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\fragment_sessions.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\fragment_sessions.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_equipment.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_equipment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_sessions.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_sessions.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_read_clients.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_read_clients.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\content_home.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\activity_packages.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\activity_packages.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-mergeDebugResources-5:\\layout\\fragment_packages.xml",
+        "source": "C:\\Users\\USER\\gradle-7.3.3-bin\\gradle-7.3.3\\daemon\\7.3.3\\com.example.flexfitnessgymmanagement.app-main-8:\\layout\\fragment_packages.xml"
+    }
+]

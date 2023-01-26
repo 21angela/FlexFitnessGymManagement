@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "317973157916",
+    "firebase_url": "https://flexfitnessgym-b3409-default-rtdb.firebaseio.com",
+    "project_id": "flexfitnessgym-b3409",
+    "storage_bucket": "flexfitnessgym-b3409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317973157916:android:4320228091d56c85f5e7d9",
+        "android_client_info": {
+          "package_name": "com.example.flexfitnessgym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317973157916-8cimn4jkr780tbtrs4a3ca4grbfmp0bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flexfitnessgym",
+            "certificate_hash": "5c724ee83d898667958bdc44e275cf05b179800a"
+          }
+        },
+        {
+          "client_id": "317973157916-91tj4vkgo7orbbo4vl9imqm4036mj8mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDz3wcDW16rf7Id0AB5anYIP_h43V-olQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317973157916-91tj4vkgo7orbbo4vl9imqm4036mj8mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317973157916:android:0589097ee32f1027f5e7d9",
+        "android_client_info": {
+          "package_name": "com.example.flexfitnessgymmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317973157916-91tj4vkgo7orbbo4vl9imqm4036mj8mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDz3wcDW16rf7Id0AB5anYIP_h43V-olQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317973157916-91tj4vkgo7orbbo4vl9imqm4036mj8mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FlexFitnessGymManagement</string>
+    <string name="logIntextView">Log In if you have existing account.</string>
+    <string name="signUpbutton">SIGN UP</string>
+    <string name="logInbutton">LOG IN</string>
+    <string name="signUptextView">Sign Up to create new account.</string>
+    <string name="nameEditText">Name</string>
+    <string name="mobileEditText">+254 722355649</string>
+    <string name="genderEditText">Male/Female</string>
+    <string name="signupTextView">Hello, Welcome to Flex Fitness Gym 🎊. Please Sign up below for the best experience in fitness💪.</string>
+    <string name="signupOkBtn">OK</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FLEX FITNESS GYM</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_sessions">Enroll in a Training Session</string>
+    <string name="menu_packages">Packages Available</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="aerobics">AEROBICS</string>
+    <string name="flexibility">FLEXIBILITY EXERCISES</string>
+    <string name="muscleTraining">MUSCLE TRAINING</string>
+    <string name="posture">POSTURE RECTIFYING EXERCISES</string>
+
+</resources>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomePageActivity">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:fontFamily="@font/andika_new_basic">
+
+        <TextView
+            android:id="@+id/txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PACKAGES AVAILABLE"
+            android:textSize = "20dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/andika_new_basic">
+
+        </TextView>
+
+
+        <TableRow android:background="@color/btn_color" android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="NO."
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Package Name"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Duration"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Fee in K.SHS"
+                android:fontFamily="@font/andika_new_basic"/>
+        </TableRow>
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="WEEKLY PACKAGE"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="7 DAYS"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1500"
+                android:fontFamily="@font/andika_new_basic"/>
+        </TableRow>
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="2"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="MONTHLY PACKAGE"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="4 WEEKS"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="5500"
+                android:fontFamily="@font/andika_new_basic"/>
+
+        </TableRow>
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="3"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="6-MONTH PACKAGE"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="24 WEEKS"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="15000"
+                android:fontFamily="@font/andika_new_basic"/>
+
+        </TableRow>
+
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="4" android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="DAILY PACKAGE"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="2HOURS @ DAY"
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="500"
+                android:fontFamily="@font/andika_new_basic"/>
+
+        </TableRow>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SERVICES OFFERED"
+            android:textSize = "20sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/andika_new_basic">
+        </TextView>
+
+
+        <TableRow android:background="@color/btn_color" android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="NO."
+                android:fontFamily="@font/andika_new_basic"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="EXERCISE TYPE"
+                android:fontFamily="@font/andika_new_basic"/>
+
+
+        </TableRow>
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1"
+                android:fontFamily="@font/andika_new_basic"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="MUSCLE TRAINING"
+                android:fontFamily="@font/andika_new_basic"/>
+
+        </TableRow>
+
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="2"
+                android:fontFamily="@font/andika_new_basic"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="AEROBIC EXERCISES"
+                android:fontFamily="@font/andika_new_basic"/>
+
+        </TableRow>
+
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="3"
+                android:fontFamily="@font/andika_new_basic"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="POSTURE CORRECTING EXERCISES"
+                android:fontFamily="@font/andika_new_basic"/>
+
+        </TableRow>
+
+        <TableRow android:background="@drawable/edit_text_bg" android:padding="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="4"
+                android:fontFamily="@font/andika_new_basic"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="FLEXIBILITY EXERCISES"
+                android:fontFamily="@font/andika_new_basic"/>
+
+        </TableRow>
+
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="345dp"
+        android:layout_height="108dp"
+        android:layout_marginTop="523dp"
+        android:fontFamily="@font/andika_new_basic"
+        android:text="CLICK BUTTON BELOW TO PICK DESIRED PACKAGE AND SERVICE.⬇"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/continueButton"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="640dp"
+        android:backgroundTint="@color/btn_color"
+        android:text="CONTINUE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
